@@ -3,7 +3,7 @@
     "type": "library",
     "version": "1.0.0",
     "description": "PHP Implementation of the Payments API",
-    "license": "",
+    "license": "GPL-2.0-or-later",
     "extra": [
         {
             "engine": "Payments PHP SDK"
